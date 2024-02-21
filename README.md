@@ -1,6 +1,6 @@
 # AI Mathematical Methods
 
-## 🏷️ Structure
+## 🏷️ Content
 - 📓**Homework1**:
   * Linear Systems and *Condition Number* of Matrix
   
@@ -14,4 +14,4 @@
   * Implemenation of *Stochastic Gradient Descent* Algorithm with *Logistic Regression* for Binary Classification
  
 - 📓**Homework4**:
-  * Implementation of *Maximun Likelihood Estimation* and *Maximum a Posteriori* Algorithms for parameters estimation in Polynomial Regression.
+  * Implementation of *Maximun Likelihood Estimation* and *Maximum a Posteriori* Algorithms for parameters estimation in Polynomial Regression
